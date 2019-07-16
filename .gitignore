@@ -1,0 +1,12 @@
+# Folders
+
+.settings/
+.idea/
+bin/
+
+# Files
+
+*.iml
+.actionScriptProperties
+.flexLibProperties
+.project

@@ -1,6 +1,6 @@
 ## Astra
 
-__Astra__ is simple library for [Starling](https://github.com/Gamua/Starling-Framework). It offers:
+__Astra__ is simple Ioc framework for [Starling](https://github.com/Gamua/Starling-Framework). It offers:
 
     Views/Mediators mapping
     Events/Commands mapping
